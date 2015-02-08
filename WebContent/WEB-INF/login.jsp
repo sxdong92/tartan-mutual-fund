@@ -1,3 +1,6 @@
+<!-- This is a line of comment.... JSP SUCKS! -->
+<!-- Yup, XP said that -->
+
 <jsp:include page="login-top.jsp" />
 
 
